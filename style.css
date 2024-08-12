@@ -1,0 +1,28 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    color: #161a1d;
+}
+.card-wrapper{
+    border: none solid #0353a4;
+    display: flex;
+    justify-content: space-around;
+    width: 400px;
+    margin: 40px auto;
+    text-align: center;
+    padding: 20px;
+    background-color: #f9844a;
+    border-radius: 8px;
+    border-left: 8px solid #660708;
+    border-right: 8px solid #660708;
+}
+.avatar{
+    width: 150px;
+}
+.btn{
+    border: none;
+    background-color: #a4161a;
+    padding: 4px 8px;
+    border-radius: 8px;
+    margin-top: 5px;
+    color: antiquewhite;
+}
